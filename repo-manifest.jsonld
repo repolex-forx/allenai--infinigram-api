@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/allenai/infinigram-api/commit/d1e8b09eb1489783ff59377d611c9282b900c100",
       "git:hexsha": "d1e8b09eb1489783ff59377d611c9282b900c100",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }

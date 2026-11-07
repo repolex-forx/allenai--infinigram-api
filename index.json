@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "infinigram-api",
+  "versions": [
+    {
+      "commit": "d1e8b09eb1489783ff59377d611c9282b900c100",
+      "tag": "",
+      "parsed_at": "2026-11-07T18:30:45.769680+00:00"
+    }
+  ]
+}
